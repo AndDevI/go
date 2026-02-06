@@ -1,7 +1,9 @@
 package main
 
-import "github.com/AndDevI/go/games"
+import "github.com/AndDevI/go/exercicios"
 
 func main() {
-	games.Game()
+	//games.Game()
+
+	exercicios.Somar()
 }
